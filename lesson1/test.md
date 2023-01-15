@@ -5,3 +5,4 @@
 2. **git add** 
 3. **git status**
 4. **git commit -m "messege"**
+5. **git log**
