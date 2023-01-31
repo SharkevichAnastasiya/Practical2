@@ -1,0 +1,15 @@
+C:\git_brains\c#lessons\seminar1\bin\Debug\net6.0\seminar1.exe
+C:\git_brains\c#lessons\seminar1\bin\Debug\net6.0\seminar1.deps.json
+C:\git_brains\c#lessons\seminar1\bin\Debug\net6.0\seminar1.runtimeconfig.json
+C:\git_brains\c#lessons\seminar1\bin\Debug\net6.0\seminar1.dll
+C:\git_brains\c#lessons\seminar1\bin\Debug\net6.0\seminar1.pdb
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.csproj.AssemblyReference.cache
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.AssemblyInfoInputs.cache
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.AssemblyInfo.cs
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.csproj.CoreCompileInputs.cache
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.dll
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\refint\seminar1.dll
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.pdb
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\seminar1.genruntimeconfig.cache
+C:\git_brains\c#lessons\seminar1\obj\Debug\net6.0\ref\seminar1.dll
